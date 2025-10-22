@@ -1,0 +1,13 @@
+.games-header {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+
+.games-content {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
